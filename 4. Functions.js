@@ -1,6 +1,6 @@
 //simple function
 function sing() {            //function decleration and definition
-    console.log("Hey");
+    console.log("LaLaLa");
 } 
 sing();         //call function
 
