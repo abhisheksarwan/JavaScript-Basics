@@ -14,4 +14,4 @@ func1();         //call function
 var func1 = () => {          //function decleration and definition
     console.log("LaLaLa");
 }
-func1(); 
+func1();        //call function
