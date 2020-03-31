@@ -5,7 +5,7 @@
 var num = 100; //number
 typeof num;
 
-var word = "Javascrip!"; //string
+var word = "Javascript!"; //string
 typeof word;
 
 var bool = true; //boolean
